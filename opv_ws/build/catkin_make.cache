@@ -1,0 +1,2 @@
+opv1
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/ubuntu/project/opv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/project/opv_ws/install -G Unix Makefiles
